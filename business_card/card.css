@@ -1,0 +1,20 @@
+body{
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.portrait{
+  width: 100px;
+ }
+
+.card{
+  width: 400px;
+  margin: 0 auto; /*moves card to the center*/
+  display: flex;
+  justify-content: space-around; 
+  padding: 20px;
+  background-color: #eff1ed;
+  text-align: center;
+  border-bottom: 6px solid #d8cefe;
+  color: #2b2839;  
+}
